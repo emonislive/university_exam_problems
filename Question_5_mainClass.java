@@ -9,9 +9,11 @@ void stop(): Prints "Stopping media file."
 Create two classes, AudioPlayer and VideoPlayer, that implement the MediaPlayer interface.
 The AudioPlayer class should override the interface methods and provide the following additional methods:
 void setVolume(int volume): Prints the volume level.
-void setEqualizer(String equalizer): Prints the equalizer settings. The VideoPlayer class should override the interface methods and provide the following
+void setEqualizer(String equalizer): Prints the equalizer settings. The VideoPlayer class should
+override the interface methods and provide the following
 additional methods:
-void setBrightness(int brightness): Prints the brightness level. void setSubtitleLanguage(String language): Prints the subtitle language.
+void setBrightness(int brightness): Prints the brightness level.
+void setSubtitleLanguage(String language): Prints the subtitle language.
 
 University - Green University of Bangladesh
 IDE - Apache NetBeans 18
