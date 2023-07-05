@@ -3,6 +3,8 @@ Suppose You create a student class that can store id and name.
 Now create 2 objects of that class having the same name and set the id and name for each of them and print.
 
 University - Green University of Bangladesh
+IDE - Apache NetBeans 18
+Date - July 5, 23
 */
 
 package com.question_2;
