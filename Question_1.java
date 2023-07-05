@@ -3,7 +3,7 @@ Write a Java program to create a class called Shape with methods called getPerim
 Make a Circle subclass that overrides the getPerimeter() and getArea() methods to determine a circle's area and perimeter.
 [Make the proper utilization of the word "override"]
 
-university - Green University of Bangladesh
+University - Green University of Bangladesh
 IDE - Apache NetBeans 18
 Date - July 5, 23
 */
