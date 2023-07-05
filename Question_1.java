@@ -21,12 +21,12 @@ class Shape {
 class Circle extends Shape {
     @Override
     void getPerimeter() {
-        double pm = 2 * 3.1416 * super.radius;
+        double pm = 2 * 3.1416 * super.radius;  //perimeter of circle = 2 * pi * radius , pi = 3.1416
         System.out.println(pm);
     }
     @Override
     void getArea() {
-        double ar = 3.1416 * super.radius * super.radius;
+        double ar = 3.1416 * super.radius * super.radius;  // area of circle = pi * radius * radius
         System.out.println(ar);
     }
 }
